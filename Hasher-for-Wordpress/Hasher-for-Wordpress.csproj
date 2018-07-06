@@ -9,6 +9,9 @@
     <Description>Library for calculating Wordpress password hashes</Description>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <PackageTags>wordpress, password, hash</PackageTags>
+    <PackageProjectUrl />
+    <RepositoryUrl>https://github.com/przpl/Hasher-for-Wordpress</RepositoryUrl>
+    <Company />
   </PropertyGroup>
 
 </Project>
