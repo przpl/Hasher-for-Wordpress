@@ -1,5 +1,12 @@
 # Hasher-for-Wordpress
+
+[![][nuget-img]][nuget]
+
 Tiny library written in C# for calculating password hashes for Wordpress. Compatible platforms: .NET Core & .NET Framework.
+
+[nuget]:     https://www.nuget.org/packages/WordpressPasswordHasher
+[nuget-img]: https://badge.fury.io/nu/wordpresspasswordhasher.svg
+
 
 ## Usage
 
